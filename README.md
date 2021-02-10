@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+- 🌱 I’m currently learning software engineer
+- ⚡ Fun fact: I bought a notebook with a graphic card not because of games, but due to coding!
 <!--
 **mibasFerraz/mibasFerraz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
