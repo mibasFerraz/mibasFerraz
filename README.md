@@ -5,7 +5,11 @@
 ### educational background:
 - [x] 0%
 - [x] 50%
-- [] 100%
+- [ ] 100%
+
+- [x] Cadastro de usuário
+- [x] Cadastro de cliente
+- [ ] Cadastro de produtos
 <!--
 **mibasFerraz/mibasFerraz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
