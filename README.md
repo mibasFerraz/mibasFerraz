@@ -1,7 +1,9 @@
 ## Hi there 👋
-
-- 🌱 I’m currently learning Python and JavaScript
+# I'm Lucas Lima.
+- 🌱 I’m currently learning Python
 - ⚡ Fun fact: I bought a notebook with a graphic card not because of games, but due to coding!
+
+[![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=mibasFerraz)](https://github.com/anuraghazra/github-readme-stats)
 
 ### educational background:
 
