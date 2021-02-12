@@ -9,8 +9,7 @@
 - [x] 50%
 - [ ] 100%
 
-[![Lucas GitHub stats](https://github-readme-stats.vercel.app/api?username=mibasFerraz)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=merko)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mibasFerraz&show_icons=true&theme=maroongold)
 <!--
 **mibasFerraz/mibasFerraz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
