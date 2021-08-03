@@ -1,8 +1,8 @@
 ## Hi there, 👋
 # I'm Lucas Lima.
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning SQL
 - 🤔 I’m a Software Engeneering student at [UnB]
-- 🔭 I’m currently at [x] 50% of my degree
+- 🔭 I’m currently at 50% of my degree
 - ⚡ Fun fact: I bought a notebook with a graphic card not because of games, but due to coding!
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mibasFerraz&show_icons=true&theme=maroongold)
