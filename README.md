@@ -7,7 +7,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mibasFerraz&show_icons=true&theme=maroongold)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mibasFerraz_icons=true&theme=maroongold)](https://github.com/mibasFerraz/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mibasFerraz&show_icons=true&theme=maroongold)](https://github.com/mibasFerraz/github-readme-stats)
 
 <!--
 [gmail]: 
