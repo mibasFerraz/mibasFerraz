@@ -4,7 +4,7 @@
 ## About me
 - 🤔 I’m a Software Engeneering student at [UnB]
 - 🌱 Nowadays I’m learning SQL and JavaScript
-- 🔭 I’m currently at 60% of my degree
+- 🔭 I’m currently at 67% of my degree
 - ⚡ Fun fact: I bought a notebook with a graphic card not because of games, but due to coding!
 
 
