@@ -3,7 +3,7 @@
 
 ## About me
 - 🤔 I’m a Software Engeneering student at [UnB]
-- 🌱 Nowadays I’m learning SQL and JavaScript
+- 🌱 Nowadays I’m learning Java
 - 🔭 I’m currently at 67% of my degree
 - ⚡ Fun fact: I bought a notebook with a graphic card not because of games, but due to coding!
 
@@ -22,8 +22,9 @@
 ## Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=mibasFerraz&show_icons=true&theme=maroongold)
 
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mibasFerraz&show_icons=true&theme=maroongold)](https://github.com/anuraghazraanuraghazra/github-readme-stats)
-
+-->
 
 ## Reach me
 <div align='center'>
