@@ -3,8 +3,8 @@
 
 ## About me
 - 🤔 I’m a Software Engeneering student at [UnB]
-- 🌱 Nowadays I’m learning Java
-- 🔭 I’m currently at 76% of my degree
+- 🌱 Nowadays I’m learning Java and SQL
+- 🔭 I’m currently at 76% of my degree (and increasing!)
 - ⚡ Fun fact: I bought a notebook with a graphic card not because of games, but due to coding!
 
 
