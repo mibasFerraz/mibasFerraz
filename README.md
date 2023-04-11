@@ -3,9 +3,9 @@
 
 ## About me
 - 🤔 I’m a Software Engeneering student at [UnB]
-- 🌱 Nowadays I’m learning Java and SQL
-- 🔭 I’m currently at 76% of my degree (and increasing!)
-- ⚡ Fun fact: I bought a notebook with a graphic card not because of games, but due to coding!
+- 🌱 Nowadays I’m learning Java and working in backend
+- 🔭 I’m currently at 87% of my degree (and increasing!)
+- ⚡ Fun fact: I bought a desktop with a graphic card not because of games, but due to coding!
 
 
 ## Languages and technologies
