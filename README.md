@@ -3,7 +3,7 @@
 
 ## About me
 - 🤔 I’m a Software Engeneering student at [UnB]
-- 🌱 Nowadays I’m learning JavaScript and ServiceNow
+- 🌱 Nowadays I’m learning React and Tailwind CSS
 - 🔭 I’m currently at 96% of my degree (and increasing!)
 - ⚡ Fun fact: I bought a desktop with a graphic card not because of games, but due to coding!
 
